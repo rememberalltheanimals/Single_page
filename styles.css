@@ -1,0 +1,80 @@
+#title {
+  background-color: #007965;
+}
+
+body {
+  font-family: Ubuntu;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+h1 {
+  font-family: "Montserrat-Black";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h2 {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+/*Navigation bar*/
+.navbar {
+  padding-bottom: 4.5rem;
+}
+.navar-brand {
+  font-family: "Ubuntu"
+  font-size: 5rem;
+  font-weight: bold;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  color: Black;
+}
+
+#features {
+padding: 7% 15%;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #007965;
+}
+
+#testimonials {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #007965;
+  color: #ffff;
+}
+
+.testimonial-image {
+  border-radius: 10%;
+  margin: 20px;
+}
+
+#press {
+  text-align: center;
+  background-color: #007965;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
